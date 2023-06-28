@@ -10,4 +10,3 @@ I am a high-school Computing teacher with a passion for coding. I recently compl
 - ⚡ Fun fact: I love reading, gardening, listening to podcasts and shopping!
 
 ### My Tech Stack
-
